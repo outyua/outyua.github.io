@@ -1,8 +1,8 @@
 ---
 home: true
 heroImage: /hero.png
-heroText: Hero 标题
-tagline: Hero 副标题
+heroText: OUTYUA
+tagline: learning log
 actionText: 快速上手 →
 actionLink: /zh/guide/
 features:
